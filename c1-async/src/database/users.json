@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "name": "Gabriel",
+      "type": "user",
+      "permissions": ["read"]
+    }
+  ],
+  "admin": [
+    {
+      "name": "Ailen",
+      "type": "admin",
+      "permissions": ["read", "write", "delete"]
+    },
+    {
+      "name": "Carolina",
+      "type": "admin",
+      "permissions": ["read", "write", "delete"]
+    },
+    {
+      "name": "Tatiana",
+      "type": "admin",
+      "permissions": ["read", "write", "delete"]
+    }
+  ]
+}

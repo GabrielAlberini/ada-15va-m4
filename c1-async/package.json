@@ -1,0 +1,20 @@
+{
+  "name": "c1-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ej:1": "node ./src/src/metodosNativos.js",
+    "ej:2": "node ./src/mapArtesanal.js",
+    "ej:3": "node ./src/mapArtesanal.js",
+    "dev": "npx ts-node ./src/model/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
