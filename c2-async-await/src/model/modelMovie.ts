@@ -1,7 +1,7 @@
 // application programing interface
 // endpoint: ruta por la que se accede a cierta data
 
-const BASE_API = new URL("https://rickandmortyapi.com");
+const BASE_API = new URL("https://rickandmortyapi.coma");
 const endpoint = "api/character";
 
 //const response = fetch(BASE_API.href + endpoint);
