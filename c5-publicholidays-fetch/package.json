@@ -1,0 +1,23 @@
+{
+  "name": "c5-publicholidays-fetch",
+  "version": "1.0.0",
+  "description": "example to fetch data to public api",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "dev": "ts-node ./src/model/holidayModel.ts"
+  },
+  "keywords": [
+    "fetch",
+    "api"
+  ],
+  "author": "gabialberini",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1"
+  }
+}
